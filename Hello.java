@@ -6,7 +6,7 @@
 public class Hello {
     
     public static void main(String[] args) {
-        greeting("hello");
+        greeting("hello world");
         
     }
     public static void greeting(String msg){
