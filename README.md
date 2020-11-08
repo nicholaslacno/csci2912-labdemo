@@ -1,2 +1,1 @@
-# csci2912-labdemo
-CSCI 2912 Git Lab Demo
+# csci2912-labdemo1
